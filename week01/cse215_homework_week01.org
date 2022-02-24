@@ -45,9 +45,12 @@ Let x be a particular integer. Use De Morgan’s laws to write negations for the
 * Exercise 5 (score = 15)
 For each  statement form below, use laws of logical equivalence to determine  if it is a tautology or contradiction. Explain which laws you are applying to  get your results. 
 
--  (~p \/ q) \/ ( p /\ ∼q)
--  (p /\ ∼q) /\ (∼p \/ q)
--  (p /\ q) \/ (∼p \/ (p /\ ∼q))  
+
+1.  (∼p\/q)\/(p/\∼q)
+2. (p/\∼q)∧(∼p\/q)
+3. (p/\q)\/(∼p\/(p/\∼q))  
+
+
 
 
 * Exercise 6. (score = 10)
