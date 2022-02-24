@@ -34,74 +34,74 @@ Office hours: Monday and Wednesday 2pm - 3pm, at B424
 TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to be decided.  
 
    
-|------+----------------+----------------------------------------------+----------|
-| Week |           Date | Tentative schedule for each class            | Reading  |
-|------+----------------+----------------------------------------------+----------|
-|   01 |          02-21 | Overview of the course                       |          |
-|      |          02-22 | Recitation: Look and feel of a final exam    |          |
-|      |          02-23 | Propositional logic [HW1 announced]          | Epp, Ch2 |
-|------+----------------+----------------------------------------------+----------|
-|   02 |          02-28 | Propositional logic                          | Epp, Ch2 |
-|      | No class 03-01 |                                              |          |
-|      |          03-02 | Propositional logic [HW1 due; HW2 announced] | Epp, Ch2 |
-|------+----------------+----------------------------------------------+----------|
-|   03 |          03-07 | Predicate logic                              | Epp, Ch3 |
-|      |          03-08 | Recitation                                   | Epp, Ch3 |
-|      | No class 03-09 |                                              |          |
-|------+----------------+----------------------------------------------+----------|
-|   04 |          03-14 | Predicate logic                              | Epp, Ch3 |
-|      |          03-15 | Recitation                                   | Epp, Ch3 |
-|      |          03-16 | Proof techniques  [HW2 due; HW3 announced]   | Epp, Ch4 |
-|------+----------------+----------------------------------------------+----------|
-|   05 |          03-21 | Proof techniques                             | Epp, Ch4 |
-|      |          03-22 | Recitation                                   | Epp, Ch4 |
-|      |          03-23 | Proof techniques                             | Epp, Ch4 |
-|------+----------------+----------------------------------------------+----------|
-|   06 |          03-28 | Proof techniques                             | Epp, Ch4 |
-|      |          03-29 | Recitation                                   | Epp, Ch4 |
-|      |          03-30 | Midterm review    [HW3 due]                  |          |
-|------+----------------+----------------------------------------------+----------|
-|   07 |          04-04 | Midterm                                      |          |
-|      |          04-05 | Recitation                                   |          |
-|      |          04-06 | Sequences         [HW4 announced]            | Epp, Ch5 |
-|------+----------------+----------------------------------------------+----------|
-|   08 |          04-11 | Sequences                                    | Epp, Ch5 |
-|      |          04-12 | Recitation                                   | Epp, Ch5 |
-|      |          04-13 | Sequences                                    | Epp, Ch5 |
-|------+----------------+----------------------------------------------+----------|
-|   09 |          04-18 | Sequences                                    | Epp, Ch5 |
-|      |          04-19 | Recitation                                   | Epp, Ch5 |
-|      |          04-20 | Sets              [HW4 due; HW5 announced]   | Epp, Ch6 |
-|------+----------------+----------------------------------------------+----------|
-|   10 |          04-25 | Sets                                         | Epp, Ch6 |
-|      |          04-26 | Recitation                                   | Epp, Ch6 |
-|      |          04-27 | Functions         [HW5 due; HW6 announced]   | Epp, Ch7 |
-|------+----------------+----------------------------------------------+----------|
-|   11 |          05-02 | Functions                                    | Epp, Ch7 |
-|      |          05-03 | Recitation                                   | Epp, Ch7 |
-|      |          05-04 | Functions                                    | Epp, Ch7 |
-|------+----------------+----------------------------------------------+----------|
-|   12 | No class 05-09 |                                              |          |
-|      |          05-10 | Recitation                                   | Epp, Ch7 |
-|      |          05-11 | Functions                                    | Epp, Ch8 |
-|------+----------------+----------------------------------------------+----------|
-|   13 |          05-16 | Relations         [HW6 due; HW7 announced]   | Epp, Ch8 |
-|      |          05-17 | Recitation                                   | Epp, Ch8 |
-|      |          05-18 | Relations                                    | Epp, Ch8 |
-|------+----------------+----------------------------------------------+----------|
-|   14 |          05-23 | Midterm 2 review  [HW7 due]                  |          |
-|      |          05-24 | Recitation                                   |          |
-|      |          05-25 | Midterm 2                                    |          |
-|------+----------------+----------------------------------------------+----------|
-|   15 |          05-30 | Final review 1                               |          |
-|      |          05-31 | Recitation: Course evaluation                |          |
-|      | No class 06-01 |                                              |          |
-|------+----------------+----------------------------------------------+----------|
-|   16 |          06-06 |                                              |          |
-|      |          06-07 | Final review 2.  Wednesday schedule.         |          |
-|      |          06-08 |                                              |          |
-|------+----------------+----------------------------------------------+----------|
-|   17 |          06-13 | Final exam 3h15pm-5h45pm                     |          |
+|------+----------------+------------------------------------------------+----------|
+| Week |           Date | Tentative schedule for each class              | Reading  |
+|------+----------------+------------------------------------------------+----------|
+|   01 |          02-21 | Overview of the course                         |          |
+|      |          02-22 | Recitation: Look and feel of a final exam      |          |
+|      |          02-23 | Propositional logic [HW1 announced]            | Epp, Ch2 |
+|------+----------------+------------------------------------------------+----------|
+|   02 |          02-28 | Propositional logic                            | Epp, Ch2 |
+|      | No class 03-01 |                                                |          |
+|      |          03-02 | Propositional logic [HW1 due; HW2 announced]   | Epp, Ch2 |
+|------+----------------+------------------------------------------------+----------|
+|   03 |          03-07 | Predicate logic                                | Epp, Ch3 |
+|      |          03-08 | Recitation          [HW2 due; HW3 announced]   | Epp, Ch3 |
+|      | No class 03-09 |                                                |          |
+|------+----------------+------------------------------------------------+----------|
+|   04 |          03-14 | Predicate logic                                | Epp, Ch3 |
+|      |          03-15 | Recitation          [HW3 due]                  |          |
+|      |          03-16 | Midterm review                                 |          |
+|------+----------------+------------------------------------------------+----------|
+|   05 |          03-21 | Midterm exam 1                                 |          |
+|      |          03-22 | Recitation                                     |          |
+|      |          03-23 | Proof techniques    [HW4 announced]            | Epp, Ch4 |
+|------+----------------+------------------------------------------------+----------|
+|   06 |          03-28 | Proof techniques                               | Epp, Ch4 |
+|      |          03-29 | Recitation                                     | Epp, Ch4 |
+|      |          03-30 | Proof techniques    [HW4 due; HW5 announced]   | Epp, Ch4 |
+|------+----------------+------------------------------------------------+----------|
+|   07 |          04-04 | Proof techniques                               | Epp, Ch4 |
+|      |          04-05 | Recitation                                     |          |
+|      |          04-06 | Sequences           [HW5 due; HW6 announced]   | Epp, Ch5 |
+|------+----------------+------------------------------------------------+----------|
+|   08 |          04-11 | Sequences                                      | Epp, Ch5 |
+|      |          04-12 | Recitation                                     |          |
+|      |          04-13 | Sequences           [HW6 due; HW7 announced]   | Epp, Ch5 |
+|------+----------------+------------------------------------------------+----------|
+|   09 |          04-18 | Sequences                                      | Epp, Ch5 |
+|      |          04-19 | Recitation                                     |          |
+|      |          04-20 | Sets                [HW7 due; HW8 announced]   | Epp, Ch6 |
+|------+----------------+------------------------------------------------+----------|
+|   10 |          04-25 | Sets                                           | Epp, Ch6 |
+|      |          04-26 | Recitation                                     |          |
+|      |          04-27 | Midterm review      [HW8 due]                  |          |
+|------+----------------+------------------------------------------------+----------|
+|   11 |          05-02 | Midterm exam 2                                 |          |
+|      |          05-03 | Recitation                                     |          |
+|      |          05-04 | Functions           [HW9 announced]            | Epp, Ch7 |
+|------+----------------+------------------------------------------------+----------|
+|   12 | No class 05-09 |                                                |          |
+|      |          05-10 | Recitation                                     |          |
+|      |          05-11 | Functions           [HW9 due; HW10 announced]  | Epp, Ch8 |
+|------+----------------+------------------------------------------------+----------|
+|   13 |          05-16 | Functions                                      | Epp, Ch8 |
+|      |          05-17 | Recitation                                     |          |
+|      |          05-18 | Functions           [HW10 due; HW11 announced] | Epp, Ch8 |
+|------+----------------+------------------------------------------------+----------|
+|   14 |          05-23 | Relations                                      | Epp, Ch8 |
+|      |          05-24 | Recitation                                     |          |
+|      |          05-25 | Relations           [HW11 due; HW12 announced] | Epp, Ch8 |
+|------+----------------+------------------------------------------------+----------|
+|   15 |          05-30 | Final review 1                                 |          |
+|      |          05-31 | Recitation: Course evaluation       [HW12 due] |          |
+|      | No class 06-01 |                                                |          |
+|------+----------------+------------------------------------------------+----------|
+|   16 |          06-06 |                                                |          |
+|      |          06-07 | Final review 2.  Wednesday schedule.           |          |
+|      |          06-08 |                                                |          |
+|------+----------------+------------------------------------------------+----------|
+|   17 |          06-13 | Final exam 3h15pm-5h45pm                       |          |
 
 
 
@@ -109,20 +109,14 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 
 
 * Grading
-- Homeworks: 30% 
-- Midterms: 20%
-- Final exam: 50%
+- Attendance: 5%
+- Homeworks: 45%  
+- Midterms: 30%
+- Final exam: 20%
 
-In this course, we have seven homeworks, two midterms and one final exam. Thus, 
-
-- Your numeral score equals to (HW1 + ...  + HW7  ) / 7 * 30% + (Midterm1 + Midterm2) / 2 * 20% + Final * 50%.
-
-- Grade cutoffs are as follows. A [93-100], A- [90-93), B+ [87-90), B [83-87), B- [80-83), C+ [77-80), C [73-77), C- [70-73), D+ [67-70), D [63-67), F [0-63).
-
-- Final grades might be adjusted at the end of the semester if curving is required.
 
 * Instructor 
-Zhoulai Fu <zhoulai dot fu at stonybrook.edu>  
+Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybrook.edu>
 
 
 * Teaching assistant
