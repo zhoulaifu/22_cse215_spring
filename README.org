@@ -46,7 +46,7 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 |      |          03-02 | Propositional logic [HW1 due; HW2 announced]   | Epp, Ch2 |
 |------+----------------+------------------------------------------------+----------|
 |   03 |          03-07 | Predicate logic                                | Epp, Ch3 |
-|      |          03-08 | Recitation          [HW2 due; HW3 announced]   | Epp, Ch3 |
+|      |          03-08 | Recitation          [HW2 due; HW3 announced]   |           |
 |      | No class 03-09 |                                                |          |
 |------+----------------+------------------------------------------------+----------|
 |   04 |          03-14 | Predicate logic                                | Epp, Ch3 |
@@ -58,7 +58,7 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 |      |          03-23 | Proof techniques    [HW4 announced]            | Epp, Ch4 |
 |------+----------------+------------------------------------------------+----------|
 |   06 |          03-28 | Proof techniques                               | Epp, Ch4 |
-|      |          03-29 | Recitation                                     | Epp, Ch4 |
+|      |          03-29 | Recitation                                     |          |
 |      |          03-30 | Proof techniques    [HW4 due; HW5 announced]   | Epp, Ch4 |
 |------+----------------+------------------------------------------------+----------|
 |   07 |          04-04 | Proof techniques                               | Epp, Ch4 |
@@ -83,11 +83,11 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 |------+----------------+------------------------------------------------+----------|
 |   12 | No class 05-09 |                                                |          |
 |      |          05-10 | Recitation                                     |          |
-|      |          05-11 | Functions           [HW9 due; HW10 announced]  | Epp, Ch8 |
+|      |          05-11 | Functions           [HW9 due; HW10 announced]  | Epp, Ch7 |
 |------+----------------+------------------------------------------------+----------|
-|   13 |          05-16 | Functions                                      | Epp, Ch8 |
+|   13 |          05-16 | Functions                                      | Epp, Ch7 |
 |      |          05-17 | Recitation                                     |          |
-|      |          05-18 | Functions           [HW10 due; HW11 announced] | Epp, Ch8 |
+|      |          05-18 | Functions           [HW10 due; HW11 announced] | Epp, Ch7 |
 |------+----------------+------------------------------------------------+----------|
 |   14 |          05-23 | Relations                                      | Epp, Ch8 |
 |      |          05-24 | Recitation                                     |          |
