@@ -27,7 +27,7 @@ Write truth tables for the following statement  forms.
 
 * Exercise 3   (score = 25)
    
-Find at least five pairs of   statement forms above that are equivalent?
+Find at least five pairs of   statement forms in the exercise above that are equivalent?
 
 
 
