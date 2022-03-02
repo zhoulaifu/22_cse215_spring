@@ -60,8 +60,7 @@ Use truth tables to determine whether the argument form below is valid
 
 (4)
 
-
-- Premises: p /\ q -> ~r,  p \/ ∼q,  ∼q -> p
+- Premises: p/\q -> ~r,  p \/ ∼q,  ∼q -> p
 - Conclusion: ~r
 
 
