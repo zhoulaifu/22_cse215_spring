@@ -1,0 +1,90 @@
+* Guideline
+
+  Homework for week 02.  It is due at 11:59pm on Wednesday, March
+08, 2022.  Be sure to include a comment at the top of each file
+submitted that gives your name and email address.  Submit your
+solution files in PDF on Blackboard. Multiple submissions are allowed
+before the due date.
+
+Note: Please read the "Academic integrity" part of the syllabus before you start the homework. 
+
+
+* Exercise 1 (score = 20)
+
+Use truth tables to determine whether the argument form below is valid
+
+(1)
+
+- premises: p -> q,  q
+- conclusion: p
+
+
+(2)
+
+- premises: p-> q, ~p
+- conclusion: ~q
+
+(3)
+
+- premises: p-> q, p
+- conclusion: q
+
+(4)
+
+- premises: p-> q, ~q
+- conclusion: ~p 
+  
+
+
+* Exercise 2 (score = 60)
+
+Use truth tables to determine whether the argument form below is valid  
+
+(1)
+
+- Premises: p -> q,  ~p -> ~q
+- Conclusion:  p \/ q
+
+
+(2)
+
+- Premises: p \/ q, p -> ~q, ~r -> ~p
+- Conclusion: r
+
+
+(3)
+
+- Premises: p, ~q -> ~p,  ~q \/ r
+- Conclusion r
+
+
+(4)
+
+
+- Premises: p /\ q -> ~r,  p \/ ∼q,  ∼q -> p
+- Conclusion: ~r
+
+
+(5)
+
+- Premises: p -> r, q -> r
+- Conclusion: (p \/ q) -> r
+
+
+(6)
+
+- Premises: p -> (q \/ r),  ~q \/ ~r
+- Conclusion: ∼p \ / ∼r
+
+
+  
+  
+
+* Exercise 3 (score = 20)
+
+  Check if the two statement form are equivalent, and expaian why:
+
+  - (p -> q)/\(q -> r)/\(r -> p)
+  - p /\ q /\ r
+
+
