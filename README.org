@@ -45,13 +45,13 @@ TA office hours: Tuesday, Thursday, Friday, from 8pm. Location and duration to b
 |      | No class 03-01 |                                                |          |
 |      |          03-02 | Propositional logic [HW1 due; HW2 announced]   | Epp, Ch2 |
 |------+----------------+------------------------------------------------+----------|
-|   03 |          03-07 | Predicate logic                                | Epp, Ch3 |
-|      |          03-08 | Recitation          [HW2 due; HW3 announced]   |           |
+|   03 |          03-07 | Propositional logic                            | Epp, Ch2 |
+|      |          03-08 | Recitation          [HW2 due; HW3 announced]   |          |
 |      | No class 03-09 |                                                |          |
 |------+----------------+------------------------------------------------+----------|
 |   04 |          03-14 | Predicate logic                                | Epp, Ch3 |
-|      |          03-15 | Recitation          [HW3 due]                  |          |
-|      |          03-16 | Midterm review                                 |          |
+|      |          03-15 | Recitation                                     |          |
+|      |          03-16 | Predicate logic     [HW3 due]                  |          |
 |------+----------------+------------------------------------------------+----------|
 |   05 |          03-21 | Midterm exam 1                                 |          |
 |      |          03-22 | Recitation                                     |          |
