@@ -10,7 +10,7 @@
 
   Rewrite the statements below using quantifiers and variables. For example, a statement like "Even numbers are divisible by 2" becomes: "for each even number n, n is divisible by 2", or "for each number n, if n is an even number, then n is divisible by 2". You do not necessarily need to use the exact words or patterns as above. 
 
-1) No two leaves are alike
+1) No two leaves are alike.
 2) Even integers equals twice some integer.
 3) The sum of two positive integers is a positive number.
 
