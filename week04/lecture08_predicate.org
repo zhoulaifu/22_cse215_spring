@@ -1,0 +1,107 @@
+* What
+
+  Exercises on class. For lecture 8 
+
+* Exercises part-1
+
+** Question 1. [Concepts]
+
+Consider the proposition: "For any integer a, b, and c, (a + b) + c = a + (b + c)".
+
+Identify the following concepts.
+   
+  
+| Things To identify | Your answer here |
+|--------------------+------------------|
+| predicate          |                  |
+| quantifier         |                  |
+| variables          |                  |
+| domain             |                  |
+| proposition        |                  |
+
+** Question 2 [Formalization]
+
+   Translate the following into a proposition using "for any" or "there exists".  
+
+| English                                         | Quantified proposition |
+|-------------------------------------------------+------------------------|
+| We can find an integer i, such that i * i = 100 |                        |
+|                                                 |                        |
+| All real numbers have a nonnegative square      |                        |
+|                                                 |                        |
+| No integer i satisfies i * i =  100             |                        |
+|                                                 |                        |
+| No software is bug-free.                        |                        |
+
+
+** Question 3 [Negation]
+
+   | Things to negate                                            | Your answers here |
+   | <40>                                                        | <40>              |
+   |-------------------------------------------------------------+-------------------|
+   | for all x in D, p(x) is true                                |                   |
+   | for any real number x, x * x > 0                            |                   |
+   |                                                             |                   |
+   | there exists x in D, such that p(x) is true                 |                   |
+   | there exists an integer i, such that i * i is an odd number |                   |
+   |                                                             |                   |
+   | for all x in D, such that p(x) -> q(x)                      |                   |
+   | Every person in this country who is 16+, can vote           |                   |
+   |                                                             |                   |
+   | there exists x in D, such that p(x) -> q(x)                 |                   |
+   |                                                             |                   |
+   |                                                             |                   |
+
+
+* Now lecture time
+
+  
+* Exercises part-2
+  
+** Question 3 [Translation]
+
+Translate English to propositions with multiple quantifiers
+
+| Things to translate                       | Your answers here |
+| <40>                                      | <40>              |
+|-------------------------------------------+-------------------|
+| There is a real number with no reciprocal |                   |
+|                                           |                   |
+| There is a smallest positive integer      |                   |
+|                                           |                   |
+| There is no smallest integer.             |                   |
+|                                           |                   |
+
+** Question 4 [Negation]
+
+   
+| Things to negate                                       | Your answers here |
+| <40>                                                   | <40>              |
+|--------------------------------------------------------+-------------------|
+|                                                        |                   |
+| for all x in D, there exists y in E, such that p(x,y)  |                   |
+| For any integer, there exists another a larger integer |                   |
+|                                                        |                   |
+| for all x in D, for all y in E, p(x,y)                 |                   |
+| Great people think alike.                              |                   |
+|                                                        |                   |
+| there exists x in D, for all y in E, p(x,y)            |                   |
+| There is a candidate that everyone likes.              |                   |
+|                                                        |                   |
+| there exists x in D and y in E, such that p(x,y)       |                   |
+| Two students in the classroom have the same birthday.  |                   |
+
+
+** Question 5 [Arguments]
+
+Check if the arguments below is valid or not
+   
+| 1 | Premises   | All bad guys go to prison                                        |
+|   |            | Tom goes to prinson                                              |
+|   | Conclusion | Tom is a bad guy                                                 |
+|   |            |                                                                  |
+|---+------------+------------------------------------------------------------------|
+| 2 | Prmises    | Honest people pay tax                                            |
+|   |            | Jack does not pay tax                                            |
+|   | Conclusion | Jack is not honest                                               |
+|   |            |                                                                  |
