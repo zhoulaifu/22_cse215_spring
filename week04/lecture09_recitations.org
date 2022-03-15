@@ -1,0 +1,93 @@
+* What 
+
+  Preparation exercises for next week's midterm exam 
+
+* Exercise 1
+
+Tautaulogy, contradition, or neither of them?
+
+- (p XOR q) /\ (p <-> q)
+
+- (p XOR q) \/ (p <-> q)  
+
+- (p -> q) /\ ( ~p -> ~q)   
+
+** answer
+
+-   contradiction
+-   tautaulogy
+-   neither of them
+
+
+** main points
+
+- Meanings of XOR,  <->,  ->, /\, \/,  ~
+   
+
+* Exercise 2
+
+Consider the following statement form: (p ⊕ q) → (∼r → (p ∨ q)).
+
+1. How many rows would you need to construct its truth table?
+   
+2. How many columns would you need at least, to construct its truth table?
+   
+3. What is the truth value of the statement form when p = T, q = F, r = T?
+
+
+
+** answer
+   
+ | p | q | r | (p ⊕ q) → (∼ r → (p ∨ q)) |
+ |---+---+---+---------------------------|
+ |   |   |   |                           |
+
+
+
+** main points
+- How to construct a truth table
+
+
+
+
+
+  
+* Exercise 3
+Show (p -> q) -> r and p -> (q -> r) are *not* logical equivalent? 
+
+** answer
+   p = false, q = true, r = false
+   
+** main points
+- A and B are logically equivalent if and only if they are equal for all assignments
+- To show equivalence, you need to ...
+- To show not equialent, you  need to ...
+
+
+* Exercise 4
+Write a negation for the following statement:
+ ∃x ∃y such that  (0 < x <= y * y  < 100).
+
+
+** answer
+\forall x, \forall y, x<=0 or x <= y*y or y*y >= 100
+** main points
+- negation of quantifiers
+- negation of predicates 
+  
+
+* Exercise 5
+ 
+Determine if the following argument is valid:
+p ↔ q
+q ⊕ r
+———-
+∴ p \/ r
+
+
+** answer
+
+   It is valid. 
+
+** main points
+- know how to check check validity.
