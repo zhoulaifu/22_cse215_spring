@@ -62,7 +62,7 @@ Write in English the negation of the statement: "For any real number x, x*x = 0 
 
 *** answer
 
-    there exists a real number x such that (x*x=0 and x!=0) or (x*x !=0 and x*x=0)
+    there exists a real number x such that (x*x=0 and x!=0) or (x*x !=0 and x=0)
 
 
 * Break ~5min
@@ -159,3 +159,6 @@ Use truth table, to find rows where premises are true and conclusion is false.
 
 
 * Finish by 4h50pm
+
+
+
