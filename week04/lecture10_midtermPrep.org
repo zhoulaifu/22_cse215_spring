@@ -1,0 +1,161 @@
+* What
+
+  Midterm exam preparation.  
+
+* Truth table
+  
+** Problem 1.  [SBU 2022]
+  Construct a truth table for the following statement form: (p ⊕ q) -> (∼ r -> (p ∨ q)).
+
+
+** Problem 2. [look different]
+
+  Find all combinations of truth values for p, q and r for which the statement ~p <->
+(q ∧ ~(p -> r)) is true.
+
+
+
+** Problem 3. [look different]
+
+  Suppose that the statement p -> ~q is false. Find all combinations of truth values of
+r and s for which (~q -> r) ∧ (~p ∨ s) is true.
+  
+*** answer
+
+Method1.
+
+    p -> ~q is false means ~p \/ ~q is false, namely p/\q is true. Thus, p = true, q = true.
+
+    (~q -> r) ∧ (~p ∨ s) now becomes s. Thus, the answer would be (1) r=true, s=true, and (2)  r=false, s=true
+
+Method2.
+
+Find rows where p->~q is false and (~q -> r) ∧ (~p ∨ s) is true. 
+
+| p   | q   | r   | s   | p->~q | (~q -> r) ∧ (~p ∨ s) |
+|-----+-----+-----+-----+-------+----------------------|
+| t   | t   | t   | t   | false | true                 |
+| t   | t   | t   | f   | true  |                      |
+| ... | ... | ... | ... |       |                      |
+    
+    
+
+* Negation
+
+** Problem 4. [SBU 2022]
+  Write negations for the following statements:
+(1) ∀x ∃y such that (√x = y).
+(2) ∃x ∀y such that (√x ≤ y).
+(3) ∃x ∃y such that (2x | y).
+(4) ∃x ∃y such that (0 < √x ≤ √3 y < 100).
+
+
+** Problem 5. [look different]
+
+Write in English the negation of the statement: "If I have a billion won, I will buy a boat and travel around the world."
+
+
+
+** Problem 6. [look different]
+Write in English the negation of the statement: "For any real number x, x*x = 0 if and only if x=0"
+
+
+*** answer
+
+    there exists a real number x such that (x*x=0 and x!=0) or (x*x !=0 and x*x=0)
+
+
+* Break ~5min
+
+* Logical Equivalence
+
+** Problem 7. [SBU 2022]
+
+   Check the logical equivalence of (p <-> q) <-> r  and p <-> (q <-> r).
+
+
+** Problem 8. [look different]
+
+   Ads from Eaton Company Limited (Canadian department store): “if the goods are unsatisfactory, then your money will be refunded”.
+
+   Is the given statement logically equivalent to
+
+1.  If your money is not refunded, then the goods are satisfactory.
+2.  If the goods are satisfactory, then your money will not be refunded.
+
+
+** Problem 9. [look different]
+
+   Show that  (p -> r)∧(q -> r) and (p∧q) -> r are *not* logically equivalent.
+      
+*** answer
+
+Method1. 
+
+(thinking) something to make p->r true and q->r false would be fine. 
+ Thus, q is true, r is false, p is false.
+
+Method2.
+
+Find a row where the two last columns have different values. 
+| p | q | r | (p -> r)∧(q -> r) | (p∧q) -> r |
+|---+---+---+-------------------+------------|
+|   |   |   |                   |            |
+ 
+   
+* Validity
+
+** Problem 10. [SBU 2022]
+
+   Determine if the following deduction rule is valid:
+(∼q -> r) ∨ p
+r ⊕ q
+————-
+∴ q
+  
+   
+** Problem 11. [look different]
+
+   Use inference rules to check validity of the argument
+p -> ~q
+q ∨ r
+p ∨ u
+~r
+————-
+∴ u
+
+
+** Problem 12. [look different]
+
+Show that the argument
+p <-> q
+q -> r
+r ∨ ~s
+~s -> q
+————-
+∴ s
+is invalid by providing a counterexample. 
+
+*** answer
+
+Method1.
+
+We need to find p,q,r,s such that the premises are all true, but the conclusion is false
+
+- s=false// since conclusion is false
+- q=true // since premise ~s -> q is true, and s=false
+- r=true // since premise q->r is true, and q=true
+- p=true // since primis p<->q is true, and q=true 
+  
+By assigning the truth value of s,q,r,p to the arguments, we obtain a counterexample where the preimises are all true but the conclusion is false.
+
+
+Method2.
+
+Use truth table, to find rows where premises are true and conclusion is false. 
+| p | q | r | s | premise1 | premise2 | premise3 | premise4 | conclusion |
+|---+---+---+---+----------+----------+----------+----------+------------|
+|   |   |   |   |          |          |          |          |            |
+
+
+* Finish by 4h50pm

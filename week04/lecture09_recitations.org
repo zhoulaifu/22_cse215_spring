@@ -12,6 +12,11 @@ Tautaulogy, contradition, or neither of them?
 
 - (p -> q) /\ ( ~p -> ~q)   
 
+
+XOR: p is true, q is false OR p is false, q is true
+<->: p is true, q is true OR p is false, q is false
+~p -> ~q = q -> p
+  
 ** answer
 
 -   contradiction
@@ -38,14 +43,14 @@ Consider the following statement form: (p ⊕ q) → (∼r → (p ∨ q)).
 
 ** answer
    
- | p | q | r | (p ⊕ q) → (∼ r → (p ∨ q)) |
+ | p | q | r | T → T                     |
  |---+---+---+---------------------------|
- |   |   |   |                           |
-
+ | t | t | t |                           |
+ | T | F | T |      T                    |
 
 
 ** main points
-- How to construct a truth table
+- How to construct a truth table, in the presence of xor, ->, <->
 
 
 
@@ -55,19 +60,34 @@ Consider the following statement form: (p ⊕ q) → (∼r → (p ∨ q)).
 * Exercise 3
 Show (p -> q) -> r and p -> (q -> r) are *not* logical equivalent? 
 
+p = true
+  q= true
+    r = is true
+
+    r is fasle
+
+  q = false
+p = false
+
+
+| p | q | r | left formula | right formula |
+|---+---+---+--------------+---------------|
+|   |   |   |              |               |
+
 ** answer
    p = false, q = true, r = false
    
 ** main points
 - A and B are logically equivalent if and only if they are equal for all assignments
-- To show equivalence, you need to ...
-- To show not equialent, you  need to ...
+- To show equivalence, you need to check they are the same for all rows
+- To show not equialent, you  need to find there is a row that the values ... diff
 
 
 * Exercise 4
 Write a negation for the following statement:
- ∃x ∃y such that  (0 < x <= y * y  < 100).
-
+ ∃x ∃y such that  (0 < x <= y^2  < 100).
+ 
+x<=0  OR x > y * y OR y * y  >= 100 
 
 ** answer
 \forall x, \forall y, x<=0 or x <= y*y or y*y >= 100
@@ -84,10 +104,13 @@ q ⊕ r
 ———-
 ∴ p \/ r
 
+p is true --> q is true --> r is false  -> p \/ r is true
+
+p is false ->.... -> r is true -> p \/ r is true
 
 ** answer
 
    It is valid. 
 
 ** main points
-- know how to check check validity.
+- know how to check validity.
