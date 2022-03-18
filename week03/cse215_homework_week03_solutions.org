@@ -1,0 +1,71 @@
+* What
+
+  Solutions for Homework for week 03. 
+
+
+
+* Exercise 1 (points = 24) 
+
+  Rewrite the statements below using quantifiers and variables. For example, a statement like "Even numbers are divisible by 2" becomes: "for each even number n, n is divisible by 2", or "for each number n, if n is an even number, then n is divisible by 2". You do not necessarily need to use the exact words or patterns as above. 
+
+1) No two leaves are alike.
+2) Even integers equals twice some integer.
+3) The sum of two positive integers is a positive number.
+
+** Solutions
+
+1) for any leaf L1, for any leaf L2, L1 and L2 are different. Or, alternatively, "for any leaves L1 and L2, L1 and L2 are different."
+2) for any even integer i, there exists integer j such that i = 2 * j.
+3) for any positive integer i and j, i + j is a positive integer.
+
+
+
+
+
+* Exercise 2 (points = 56)
+
+  Write a negation for each statement. For example, the negation of "for any real number x, if x * x > 4 then x > 2" becomes "there exists a real number x, x * x > 4 and x <= 2".   
+
+
+1)  for any real numbers x,y,z, (x + y) + z  equals to x + (y + z). 
+2)  for any integer d, if 11 / d is an integer then d = 11.
+3)  for any real nunber x, if x * (x + 5) > 0 then x > 0 or x < −5.
+4)  for any positive integer n, if n is prime then n is odd or n = 2.
+5)  for any integers a, b and c, if a − b is even and b − c is even, then a − c is even.
+6)  for any integer n, if n is divisible by 6, then n is divisible by both 2 and 3.
+7)  If the square of an integer is odd, then the integer is odd.
+
+** solutions
+1) There exists real numbers x,y,z, such that (x + y) + z  does not equal to x + (y + z).
+2) There exists an integer d, such that 11 / d is an integer and  d does not equal to 11. 
+3) There exists a real number x, such that x * (x + 5) > 0 and  -5 <= x <= 0.
+4) There exists a positive integer n, such that n is prime, n is even and n = 2.
+5) There exist integers a, b and c,  such that a − b is even, b − c is even, and a − c is odd.
+6) There exists an integer n, such that n is divisible by 6,   n is not divisible by 2, and n is not divisible by 3.
+7) There exists an integer n, n*n is odd and n is even.
+
+   
+* Exercise 3 (points = 20)
+
+Use inference rules to show the following argument is valid.
+
+Premises
+- p ∨ q
+- q -> r
+- p ∧ s -> t
+- ∼r
+- ∼q → u ∧ s
+
+Conclusion
+- t
+
+** solutions
+
+(1)  We have ~q from premises ~r and q->r, following modus tollens. 
+
+(2)  With ~q obtained from (1), we can show both u and s are true from premise  ∼q → u ∧ s, following modus ponens. We can also show p is true from premise p \/ q, following the elimination rule.
+
+(3) Given that p and s are true from (2), we know t is true from premise p /\ s -> t, following modus ponens. Therefore the argument is valid.
+
+
+
