@@ -39,7 +39,7 @@
 1) There exists real numbers x,y,z, such that (x + y) + z  does not equal to x + (y + z).
 2) There exists an integer d, such that 11 / d is an integer and  d does not equal to 11. 
 3) There exists a real number x, such that x * (x + 5) > 0 and  -5 <= x <= 0.
-4) There exists a positive integer n, such that n is prime, n is even and n = 2.
+4) There exists a positive integer n, such that n is prime, n is even and n != 2.
 5) There exist integers a, b and c,  such that a − b is even, b − c is even, and a − c is odd.
 6) There exists an integer n, such that n is divisible by 6,   n is not divisible by 2, and n is not divisible by 3.
 7) There exists an integer n, n*n is odd and n is even.
