@@ -27,7 +27,7 @@ Identify the following concepts.
 |-------------------------------------------------+--------------------------------------|
 | We can find an integer i, such that i * i = 100 | \exists integer i, i*i =100          |
 |                                                 |                                      |
-| All real numbers have a nonnegative square      | \forall r, \exists q>0, s.t. q*q =r  |
+| Allreal numbers have a nonnegative square root  | \forall r, \exists q>0, s.t. q*q =r  |
 |                                                 |                                      |
 | No integer i satisfies i * i =  100             | \forall integer i, s.t. i*i!=100     |
 |                                                 |                                      |
