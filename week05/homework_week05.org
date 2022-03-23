@@ -19,7 +19,7 @@ Determine whether the statements below are true or false.
 
 5. The average of any two odd integers is odd.
 
-6  For any real number x, if x * x >= 4, then x >= 2.
+6. For any real number x, if x * x >= 4, then x >= 2.
 
 7. For any real numbers x and y, x^2 - 2xy + y^2 >= 0. 
 
@@ -58,11 +58,11 @@ Prove the following statement:  there is a perfect square that can be written as
 
 Below are two definitions of odd numbers.
 
-- Definition 1. An integer n is an odd number if n = 2k+1 for some integer k
+- Definition 1. An integer n is an odd number if n = 2k+1 for some integer k.
 
-- Definition 2. An integer n is an odd number if n = 2k-1 for some integer k  
+- Definition 2. An integer n is an odd number if n = 2k-1 for some integer k.  
   
-Prove the two definitions are equivalent.
+Prove the two definitions are equivalent following the two steps below. 
 
 1. First, prove any odd number n defined in the sense of Definition 1 is also an odd number defined in the sense of Definition
 
