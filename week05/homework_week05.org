@@ -1,0 +1,71 @@
+* Guideline
+
+ Homework for week 05. Due: 11:59 pm on Wednesday, March 30, 2022.
+
+ Please submit your solution files in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
+ 
+* Exercise 1 (points = 40)
+
+Determine whether the statements below are true or false. 
+
+1. 119 is a prime number.
+   
+2. 161 is a prime number.
+
+3. 42k is an even number for any integer k.
+
+4. For each integer n with 2 <= n <= 6, n^2 − n + 11 is a prime number.
+
+5. The average of any two odd integers is odd.
+
+6  For any real number x, if x * x >= 4, then x >= 2.
+
+7. For any real numbers x and y, x^2 - 2xy + y^2 >= 0. 
+
+8. There exists an integer x, such that (2x + 1)^2 is even.
+
+   
+
+  
+ 
+* Exercise 2 (points = 5)
+  Prove the following statement: There exist two integers m and n such that m > 1 and n>1 and 1/m + 1/n is an integer.
+
+ 
+* Exercise 3 (points = 5)
+  Prove the following statement: There is an integer n such that 2n^2 - 5n +2 is prime
+   There exists an integer such that x*x <=0
+
+* Exercise 4 (points = 5) 
+
+Prove the following propositions: an even number multiplied by an integer is an even number. 
+
+
+
+* Exercise 5 (points = 15) 
+
+Prove the following propositions: an odd number multiplied by an odd number is an odd number.   
+
+
+* Exercise 6 [points = 15)
+
+We say an integer is a perfect square if it can be expressed as a square of some integer. For example, 81 is a perfect square; 80 is not.
+
+Prove the following statement:  there is a perfect square that can be written as a sum of two other perfect squares. 
+
+* Exercise 7 (points = 15)
+
+Below are two definitions of odd numbers.
+
+- Definition 1. An integer n is an odd number if n = 2k+1 for some integer k
+
+- Definition 2. An integer n is an odd number if n = 2k-1 for some integer k  
+  
+Prove the two definitions are equivalent.
+
+1. First, prove any odd number n defined in the sense of Definition 1 is also an odd number defined in the sense of Definition
+
+2. Second, prove any odd number n defined in Definition 2 is also an odd number defined in the sense of Definition 1.  
+
+  
