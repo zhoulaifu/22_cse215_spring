@@ -36,15 +36,15 @@ Determine whether the statements below are true or false.
 * Exercise 3 (points = 5)
   Prove the following statement: There is an integer n such that 2n^2 - 5n +2 is prime.
 
-* Exercise 4 (points = 5) 
+* Exercise 4 (points = 10) 
 
-Prove the following propositions: an even number multiplied by an integer is an even number. 
+Prove the following proposition: An even number multiplied by an integer is an even number. 
 
 
 
-* Exercise 5 (points = 15) 
+* Exercise 5 (points = 10) 
 
-Prove the following propositions: an odd number multiplied by an odd number is an odd number.   
+Prove the following proposition: An odd number multiplied by an odd number is an odd number.   
 
 
 * Exercise 6 [points = 15)
