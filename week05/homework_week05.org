@@ -47,13 +47,13 @@ Prove the following proposition: An even number multiplied by an integer is an e
 Prove the following proposition: An odd number multiplied by an odd number is an odd number.   
 
 
-* Exercise 6 [points = 15)
+* Exercise 6 [points = 10)
 
 We say an integer is a perfect square if it can be expressed as a square of some integer. For example, 81 is a perfect square; 80 is not.
 
 Prove the following statement:  there is a perfect square that can be written as a sum of two other perfect squares. 
 
-* Exercise 7 (points = 15)
+* Exercise 7 (points = 20)
 
 Below are two definitions of odd numbers.
 
