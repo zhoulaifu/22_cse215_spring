@@ -63,7 +63,7 @@ Below are two definitions of odd numbers.
   
 Prove the two definitions are equivalent following the two steps below. 
 
-1. First, prove any odd number n defined in the sense of Definition 1 is also an odd number defined in the sense of Definition
+1. First, prove any odd number n defined in the sense of Definition 1 is also an odd number defined in the sense of Definition 2.
 
 2. Second, prove any odd number n defined in Definition 2 is also an odd number defined in the sense of Definition 1.  
 
