@@ -69,3 +69,4 @@ Prove the two definitions are equivalent following the two steps below.
 2. Second, prove any odd number n defined in Definition 2 is also an odd number defined in the sense of Definition 1.  
 
   
+

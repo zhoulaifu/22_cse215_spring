@@ -33,7 +33,7 @@ XOR: p is true, q is false OR p is false, q is true
 
 Consider the following statement form: (p ⊕ q) → (∼r → (p ∨ q)).
 
-1. How many rows would you need to construct its truth table?
+1. How many rows would you need to construct its truth table?>
    
 2. How many columns would you need at least, to construct its truth table?
    
