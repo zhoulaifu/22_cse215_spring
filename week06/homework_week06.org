@@ -1,0 +1,50 @@
+* Guideline
+
+ Homework for week 06. Due: 11:59 pm on Wednesday, April 6, 2022.
+
+ Please submit your solution files in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
+ 
+* Exercise 1 (points = 10)
+
+  Prove that for all integers a, if a^5 is even, then a is even.
+
+* Exercise 2 (points = 10)
+
+  Prove that for all integers a and b, if ab is even, then a is even or b is even.
+
+* Exercise 3 (points = 10)
+
+  Prove that the cube root of an irrational number is irrational. (The cube root of a number a is a number b such that b*b*b=a.)
+
+
+* Exercise 4 (points = 40)
+
+  Determine which statements are true and which are false. Prove those that are true
+and disprove those that are false. (points = To disapprove means to find a counter-example).
+
+1. rational/irrational is irrational.
+2. Irrational*irrational is irrational.   
+3. The sum of any two positive irrational numbers is irrational.
+4. The square root of any rational number is irrational.
+
+
+  
+
+  
+
+
+* Exercise 5 (points = 15)
+
+  Prove that there are no integers x and y such that x^3 = 4y + 6.
+
+
+* Exercise 6 (points = 15)
+
+  Prove that the product of any four consecutive integers is a multiple of 8. (Note this statement is stronger than the one we discussed in the class.)
+
+  
+
+
+
+
