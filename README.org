@@ -66,7 +66,7 @@ TA office hours: Tuesday, Thursday, Friday, 8pm - 10:30pm, at Zoom
 |      |          03-29 | Recitation                                      |          |
 |      |          03-30 | Proof techniques    [HW4 due; HW5 announced]    | Epp, Ch4 |
 |------+----------------+-------------------------------------------------+----------|
-|   07 |          04-04 | Proof techniques                                | Epp, Ch4 |
+|   07 |          04-04 | Sequences                                       | Epp, Ch5 |
 |      |          04-05 | Recitation                                      |          |
 |      |          04-06 | Sequences           [HW5 due; HW6 announced]    | Epp, Ch5 |
 |------+----------------+-------------------------------------------------+----------|
@@ -74,7 +74,7 @@ TA office hours: Tuesday, Thursday, Friday, 8pm - 10:30pm, at Zoom
 |      |          04-12 | Recitation                                      |          |
 |      |          04-13 | Sequences           [HW6 due; HW7 announced]    | Epp, Ch5 |
 |------+----------------+-------------------------------------------------+----------|
-|   09 |          04-18 | Sequences                                       | Epp, Ch5 |
+|   09 |          04-18 | Sets                                            | Epp, Ch6 |
 |      |          04-19 | Recitation                                      |          |
 |      |          04-20 | Sets                [HW7 due; HW8 announced]    | Epp, Ch6 |
 |------+----------------+-------------------------------------------------+----------|
