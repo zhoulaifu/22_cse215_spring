@@ -1,0 +1,40 @@
+
+* Guideline
+
+ Homework for week 08. Due: 11:59 pm on Wednesday, April 20, 2022. The deadline refers to the time in New York (= Eastern Daylight Time). 
+
+ Please submit your solutions in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
+
+* Exercise 1 (10 points) 
+  Prove that n^3 + 2n is divisible by 3 for all integer n >= 1.
+
+* Exercise 2 (10 points) 
+
+  Prove that if p is a real number satisfying p > -1, then (1+p)^n >= 1 + np
+ 
+* Exercise 3 (10 points)
+  Prove that 9^n − 2^n is divisible by 7 for any integer n>=1.
+
+
+* Exercise 4 (30 points)
+
+  Prove:
+
+  (1) For all integer n >= 3, n^2 >= 2n + 1.
+
+  (2) For all integer n >= 4, 2^n >= n^2. [Hint: you may use the result established in #1]
+
+
+* Exercise 5 (20 points)
+
+  Each of n guests  (where n >= 2) who meets at a party wants to shake hands with all the others. How many handshakes will there be? Explain your results.
+
+(Hint)  Imagine n people in the room and one more arrives and shakes hands with all the others. 
+
+* Exercise 6 (20 points)
+
+  Prove that for any integer n >= 1, 3^{2n+2} - 8n - 9 can be divisible by 64.
+
+
+
