@@ -11,7 +11,7 @@
 
 * Exercise 2 (10 points) 
 
-  Prove that if p is a real number satisfying p > -1, then (1+p)^{n} >= 1 + np.
+  Prove that if p is a real number satisfying p > -1, then (1+p)^{n} >= 1 + np for any integer n >= 1.
  
 * Exercise 3 (10 points)
   Prove that 9^{n} − 2^{n} is divisible by 7 for any integer n >= 1.
