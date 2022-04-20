@@ -17,7 +17,7 @@ State whether each of the following is true or false:
 5.  4 ∉ B
 6. A ∈ N
 7. A ⊂ N 
-8. B ⊆ A
+8. B ⊂ A
 
 
 * Exercise 2. (points = 6)
