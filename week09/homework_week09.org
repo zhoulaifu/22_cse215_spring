@@ -23,7 +23,7 @@ State whether each of the following is true or false:
 * Exercise 2. (points = 6)
 The following sets have been defined using the set-builder notation. List three elements of each set.
 1. {x ∈ N | x = 2n - 5 for a natural number n}
-2. {y ∈ N| 2y^2 < 20, y is an integer}
+2. {y ∈ N| 2y^2 < 20}
 3. {z ∈ N|  3z = n^2, for a natural number n}
 
 
