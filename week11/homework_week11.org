@@ -1,0 +1,60 @@
+* Guideline
+
+ Homework for week 11. Due: 11h59 pm on Wednesday, May 11, 2022, New York Time (that is,  Korean time the next day at 12h59 pm). 
+
+ Please submit your solutions in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
+Note: For exercises 3-7, you will need to prove your statement. For example, if you state a function is onto, you need to prove it is onto. If it is not, you need to find a counterexample.
+ 
+* Exercise 1.  (points = 10)
+
+  There are eight different functions f : {a, b, c} -> {0, 1} . List them all. Diagrams will suffice.
+
+
+* Exercise 2.  （points = 10)
+  Let A= {1,2,3,4} and B= {a,b,c}. Give an example of a function f:A->B that is neither one-to-one nor onto. Diagrams will suffice. 
+
+* Exercise 3 (points = 20)
+  
+ Consider the cosine function cos: R -> R. Determine
+ 1.whether this function is one-to-one and
+ 2.whether it is onto.
+    Now consider the same cosine function, but defined as cos : R -> [−1, 1] (Here, [-1,1] is the closed interval from -1 to 1).  Determine
+ 3. whether this function is one-to-one and
+ 4. whether it is onto.
+   
+
+
+
+ 
+* Excise 4. (points = 15)
+
+A function f :Z→Z is defined as f(n)=2n+1. Determine
+1. whether this function is one-to-one and
+2. whether it is onto.
+
+
+
+* Exercise 5. (points = 15)
+  
+ A function f :Z→Z×Z is defined as f(n)=(2n,n+3). Determine
+ 1. whether this function is one-to-one and
+ 2. whether it is onto.
+
+[Hint: a pair (p,q) is equal to another pair (p',q') if and only if p = p' and q = q'.]
+
+* Exercise 6. (points = 15)
+
+  A function f : Z×Z → Z is defined as f(m,n) = 2n−4m. Determine
+1. whether this function is one-to-one, and 
+2. whether it is onto.
+
+
+* Exercise 7. (points = 15)
+ A function f : Z×Z → Z is defined as f(m,n) = 3n−4m. Determine
+ 1. whether this function is one-to-one and
+ 2, whether it is onto.
+
+ 
+
+
