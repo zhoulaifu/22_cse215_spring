@@ -17,14 +17,16 @@ Note: For exercises 3-7, you will need to prove your statement. For example, if 
 * Exercise 3 (points = 20)
   
  Consider the cosine function cos: R -> R. Determine
+
 1. whether this function is one-to-one and
 2. whether it is onto.
 
  Now consider the same cosine function, but defined as cos : R -> [−1, 1] (Here, [-1,1] is the closed interval from -1 to 1).  Determine
 
-3. [@3] whether this function is one-to-one and
+3.  whether this function is one-to-one and
 4. whether it is onto.
    
+
 
 
 
