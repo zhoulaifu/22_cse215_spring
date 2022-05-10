@@ -20,10 +20,6 @@ Note: For exercises 3-7, you will need to prove your statement. For example, if 
 1. whether this function is one-to-one and
 2. whether it is onto.
 
-
-    
-
-
  Now consider the same cosine function, but defined as cos : R -> [−1, 1] (Here, [-1,1] is the closed interval from -1 to 1).  Determine
 
 3. [@3] whether this function is one-to-one and
