@@ -1,0 +1,38 @@
+* Guideline
+
+ Homework for week 11. Due: 11h59 pm on Wednesday, May 11, 2022, New York Time (that is,  Korean time the next day at 12h59 pm). 
+
+ Please submit your solutions in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
+
+* Exercise 1 （points = 10)
+
+1. Suppose f:R→R and g:R→R are both one-to-one functions. Is f+g also one-to-one? Justify your answer.
+2. Suppose f:R→R and g:R→R are both onto functions. Is f+g also onto? Justify your answer.
+
+  In the questions, f+g means a function that maps x to f(x) + g(x).
+ 
+* Exercise 1.  (points = 10)
+
+The function f : R → (0,∞) defined as f (x) = e^{x^3+1} is a one-to-one correspondence. Find its inverse.
+
+* Exercise 2.  (points = 10)
+The function f :Z^2→Z^2 defined by the formula f(m,n)= (5m+4n,4m+3n) is a one-to-one correspondence. Find its inverse.
+
+* Example 3. (points = 20)
+We denote the powerset of Z by P(Z).   Prove the function θ : P(Z) → P(Z) defined as θ(X) = X' (complement of X) is bijective. Then,  find its inverse.
+
+* Example 4. (points = 20)
+Prove that the functionf:R^2→R^2 defined by the formula f(x,y)=((x^2+1)y,x^3) is a one-to-one correspondence. Then find its inverse.
+  
+* Example 5. (points = 15)
+  Given six integers  chosen randomly. Prove the sum or difference of two of them is divisible by 9.
+
+[Hint: Any number n can be represented as one of the five cases: 9k, 9k±1, 9k±2, 9k±3, 9k±4]
+
+* Example 6. (points = 15)
+Consider a square whose side-length is one unit. Select any five points from inside this square. Prove that at least two of these points are within \sqrt(2)/2 units of each other.
+
+Above \sqrt(2) refers to square root of 2.
+
+[Hint: Consider covering the square of one unit with four circles.] 
