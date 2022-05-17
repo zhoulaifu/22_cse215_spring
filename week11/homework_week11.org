@@ -31,7 +31,7 @@ Note: For exercises 3-7, you will need to prove your statement. For example, if 
 
 
  
-* Excise 4. (points = 15)
+* Exercise 4. (points = 15)
 
 A function f :Z→Z is defined as f(n)=2n+1. Determine
 1. whether this function is one-to-one and
