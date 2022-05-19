@@ -1,0 +1,40 @@
+
+* Exercise 1. (points = 32)
+  Define f:R→R and g:R→R by the formulas f(x)=x+3 and g(x)=−x for all x ∈ R. Find
+1. g◦f
+2. g◦f^{-1]
+3. g^{-1},f^{-1}
+4. f^{-1}◦ g^{-1}
+  
+
+
+ 
+* Exercise 2. (points = 8)
+ Consider the functions f,g: R→R defined as f(x)= x+1 and g(x)=x. Find  g ◦ f and f ◦ g.
+
+
+* Exercise 3. (points = 15)
+
+   Consider the function f: R^2 →R^2 defined by the formula f(x,y)= (xy,x^3). Find  f ◦ f.
+
+
+[Hint: If you are confused, just follow the definition of function composition, that is f ◦ g (a) = f(g(a)). Here "a" can be a 2-D element (pair) such as x,y in this exercise.]
+ 
+* Exercise 4 (points = 15)
+Consider the functions f,g : Z×Z → Z×Z defined as f(m,n) = (mn,m^2), g(m,n)=(m+1,m+n). Find g◦f andf◦g. 
+
+
+     
+* Exercise 5 （points = 20)
+ S = {x ∈ R | 0 < x < 1}
+
+- Let U={x∈R | 0<x<2}. Prove that S and U have the same cardinality.
+- Let V={x∈R | 2<x<5}. Prove that S and V have the same cardinality.
+
+
+* Exercise 6 (points = 10)
+
+ Suppose f is a function from a set X to a set Y.  and  I_Y is the identity function on Y.  Prove I_Y ◦ f = f.
+
+
+
