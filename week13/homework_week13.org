@@ -1,3 +1,9 @@
+* Guideline
+
+ Homework for week 13. Due: 11h59 pm on Wednesday, May 25, 2022, New York Time (that is,  Korean time the next day at 12h59 pm). 
+
+ Please submit your solutions in PDF on Blackboard. Multiple submissions are possible before the due date; the last submission will be graded. 
+
 
 * Exercise 1. (points = 32)
   Define f: R→R and g: R→R by the formulas f(x) = x+3 and g(x) = −x for all x ∈ R. Find
