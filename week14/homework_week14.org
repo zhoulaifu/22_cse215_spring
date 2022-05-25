@@ -21,7 +21,6 @@
 
 * Exercise 3 (points = 70)
 
-􏰵􏰶􏰵􏰶
 1. Consider the relation R = {(a,a),(b,b),(c,c),(d,d),(a,b),(b,a)} on the set A= {a,b,c,d}. Is R reflexive? Symmetric? Transitive? If a property does not hold, say why.
    
 2. Consider the relation R= {(a,b),(a,c),(c,c),(b,b),(c,b),(b,c)} on the set A= {a,b,c}. Is R reflexive? Symmetric? Transitive? If a property does not hold, say why.
