@@ -11,8 +11,8 @@ This repository is publicly accessible and hosts  courseware that will be increm
 * Course objectives
 The students should gain the following knowledge and skills:
 - An ability to construct truth tables for various purposes, for example, checking  if an argument is valid or if two propositions are equivalent. 
-- An ability to verify the correctness of proofs of some existing theorems and prove some new theorems
-- An ability to use the mathematical concepts of sequences, functions, relations, and sets in solving computing problems
+- An ability to argue with rigor and prove some theorems.
+- An ability to understand the mathematical concepts of sequences, functions, relations.
 
 
 
